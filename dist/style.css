@@ -1,0 +1,43 @@
+body{
+  background-color:rgba(0,0,0,.7);
+}
+
+.container{
+  margin-top:20%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+ .counter-box{
+     text-align: center;
+     flex:0 0 70%;
+     font-size: 5.9rem;
+     border:2px solid rgb(163, 163, 173);
+     border-radius:16px;
+     box-shadow: 0 0 40px black;
+ } 
+ .counter{
+     font-size: 5.5rem;
+ }
+ .btn{
+     width:160px;
+     height :40px ;
+     color:red;
+     background: rgba(0,0,0,.6);
+     border-radius: 12px;
+     font-size:1.3rem;
+     letter-spacing: 2px;
+     margin-top: 10px;
+     
+ }
+ .btn:hover{
+     background: blue;
+     color: red;
+ 
+ }
+ h1{
+     font-size: 3.8rem;
+     color:#222;
+     letter-spacing: 3px;
+}
