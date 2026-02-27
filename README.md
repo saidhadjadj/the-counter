@@ -1,5 +1,6 @@
 # The Counter
 
+ HEAD
 Un compteur interactif simple, accessible et responsive, développé avec HTML, CSS et JavaScript.
 
 ## ✨ Fonctionnalités
@@ -27,4 +28,9 @@ Un compteur interactif simple, accessible et responsive, développé avec HTML, 
 
 
 
+=======
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/cosaidepen/pen/dPXMqxK](https://codepen.io/cosaidepen/pen/dPXMqxK).
+>>>>>>> d9d4a8910c02000f5af0196c3328ada4390cb9ab
 

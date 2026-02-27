@@ -1,6 +1,10 @@
 The MIT License (MIT)
 
-Copyright (c) 2026 said (https://codepen.io/cosaidepen/pen/vEXOOwb)
+ HEAD
+
+Copyright (c) 2026 said (https://codepen.io/cosaidepen/pen/dPXMqxK)
+Fork of an original work The Counter (https://codepen.io/cosaidepen/pen/jOzxzpw)
+ d9d4a8910c02000f5af0196c3328ada4390cb9ab
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
