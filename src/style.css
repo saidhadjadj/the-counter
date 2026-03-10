@@ -28,6 +28,7 @@ body{
      font-size: 3.8rem;
      color:#222;
      letter-spacing: 3px;
+     text-shadow: 1px 1px 6px #fff;
 }
 
 button:disabled {
@@ -43,12 +44,13 @@ button:focus {
   background: #0f0f82;
   color: white;
   border: none;
-  font-size: 2rem;
+  font-size: 3rem;
   width: 4rem;
   height: 4rem;
-  border-radius: 1rem;
+  border-radius: 50%;
   cursor: pointer;
   margin: 0 10.5rem;
+  margin-bottom: 2rem;
   transition: 0.2s;
 }
 
