@@ -17,7 +17,7 @@ Un compteur interactif simple, accessible et responsive, développé avec HTML, 
 
 ## 🚀 Démo en ligne
 
-👉 [Voir le projet en action](https://the-counter.vercel.app)
+👉 Live demo: https://th-counter-omega.vercel.app
 
 ## 🛠️ Technologies utilisées
 
