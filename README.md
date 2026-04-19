@@ -1,29 +1,47 @@
-# The Counter
+# 🔢 The Counter
 
- HEAD
-Un compteur interactif simple, accessible et responsive, développé avec HTML, CSS et JavaScript.
+A simple and interactive counter application built with HTML, CSS, and JavaScript.
 
-## ✨ Fonctionnalités
+---
 
-- ➕ Incrémenter / Décrémenter / Réinitialiser
-- 💾 Sauvegarde automatique de la valeur dans `localStorage`
-- ⌨️ Raccourcis clavier :
-  - `+` ou `↑` : augmenter
-  - `-` ou `↓` : diminuer
-  - `0` ou `R` : réinitialiser
-- 🎨 Design responsive (mobile/tablette/desktop)
-- 🌈 Retour visuel avec couleurs et animations
-- ♿ Accessibilité (labels ARIA, focus visible)
+## 🔗 Live Demo
+https://the-counter.vercel.app
 
-## 🚀 Démo en ligne
+## 📂 GitHub Repository
+https://github.com/saidhadjadj/the-counter
 
-👉 Live demo: https://the-counter-omega.vercel.app
+---
 
-## 🛠️ Technologies utilisées
+## 🌍 Overview
+This project is a basic counter application that allows users to increment, decrement, and reset a value. It demonstrates core JavaScript interactions and UI updates.
 
+---
+
+## ✨ Features
+- ➕ Increment counter
+- ➖ Decrement counter
+- 🔄 Reset functionality
+- ⚡ Real-time UI updates
+- 📱 Fully responsive design
+
+---
+
+## 📸 Preview
+![Preview](./assets/preview.png)
+
+---
+
+## 🛠️ Tech Stack
 - HTML5
-- CSS3 (Flexbox, transitions, media queries)
-- JavaScript (ES6+)
+- CSS3
+- JavaScript (ES6)
 
+---
 
+## 🎯 Purpose
+This project demonstrates basic state management, event handling, and DOM manipulation.
 
+---
+
+## 👤 Author
+Said Hadjadj
